@@ -29,7 +29,7 @@ Both Admin and Merchant can use this API:
 
 ---
 
-<p class="changelog-title"><span><strong>Transaction History APIs</strong></span><span class="pull-right">7 February 2020</span></p>
+<p class="changelog-title"><span><strong>Transaction History APIs.</strong></span><span class="pull-right">7 February 2020</span></p>
 
 Added time filtering query parameters to:
 * [Get Transactions History of the marketplace](https://apiv2.arcadier.com/?version=latest#fd876791-d71f-43bd-be02-bfe6bf17747a)
