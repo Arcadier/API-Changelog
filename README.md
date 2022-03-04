@@ -1,11 +1,30 @@
+<p class="changelog-title"><span><strong>Single Sign on For Enterpise Clients and Event Triggers</strong></span><span class="pull-right"> January 2022</span></p>
+
+---
+
+<p class="changelog-title"><span><strong>Added support for meta items</strong></span><span class="pull-right"> December 2021</span></p>
+
+---
+
+<p class="changelog-title"><span><strong>Bug fixes</strong></span><span class="pull-right"> September 2021</span></p>
+
+---
+
+<p class="changelog-title"><span><strong>Added Support for Merhcant Sub Accounts</strong></span><span class="pull-right"> July 2021</span></p>
+
+---
+
+<p class="changelog-title"><span><strong>Added User Groups at permission profile Api</strong></span><span class="pull-right"> June 2021</span></p>
+
+---
+
+
 <p class="changelog-title"><span><strong>Merhant Info Api update to inlcude user profile medias</strong></span><span class="pull-right"> January 2021</span></p>
 
 ---
 
 
-<p class="changelog-title"><span><strong>Items with translations to show the correct data when called via GET Item APIs</strong></span><span class="pull-right"> Feb 2021</span></p>
-* Items with translations to show the correct data when called via GET Item APIs
-* Added Delete Cart Item API to support partial refunds.
+<p class="changelog-title"><span><strong>Items with translations to show the correct data when called via GET Item APIs and cart item parital refunds</strong></span><span class="pull-right"> Feb 2021</span></p>
 
 
 ---
@@ -16,11 +35,7 @@
 ---
 
 
-<p class="changelog-title"><span></span><span class="pull-right"> November 2020 </span></p>
-* System enhancement of ‘read’ flag to recognize the action of a sub-account after reading a new message.
-* Validation on selected date and time upon checkout
-
-
+<p class="changelog-title"><span><strong>System enhancement of ‘read’ flag to recognize the action of a sub-account after reading a new message</strong></span><span class="pull-right"> November 2020 </span></p>
 
 
 ---
