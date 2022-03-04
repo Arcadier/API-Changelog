@@ -1,15 +1,49 @@
-<p class="changelog-title"><span><strong>Added Country Level and User Location Settings</strong></span><span class="pull-right">September 2020 </span></p>
+<p class="changelog-title"><span><strong>Merhant Info Api update to inlcude user profile medias</strong></span><span class="pull-right"> January 2021</span></p>
 
-<p class="changelog-title"><span><strong>Added Partial Refund</strong></span><span class="pull-right">August 2020</span></p>
+---
 
-<p class="changelog-title"><span><strong>URL shortening APIs added</strong></span><span class="pull-right">4 May 2020</span></p>
+
+<p class="changelog-title"><span><strong>Items with translations to show the correct data when called via GET Item APIs</strong></span><span class="pull-right"> Feb 2021</span></p>
+* Items with translations to show the correct data when called via GET Item APIs
+* Added Delete Cart Item API to support partial refunds.
+
+
+---
+
+
+<p class="changelog-title"><span><strong>Items with translations to show the correct data when called via GET Item APIs</strong></span><span class="pull-right"> December 2020 </span></p>
+
+---
+
+
+<p class="changelog-title"><span></span><span class="pull-right"> November 2020 </span></p>
+* System enhancement of ‘read’ flag to recognize the action of a sub-account after reading a new message.
+* Validation on selected date and time upon checkout
+
+
+
+
+---
+
+
+<p class="changelog-title"><span><strong>Added Country Level and User Location Settings</strong></span><span class="pull-right"> September 2020 </span></p>
+
+---
+
+
+<p class="changelog-title"><span><strong>Added Partial Refund</strong></span><span class="pull-right"> August 2020</span></p>
+
+---
+
+
+<p class="changelog-title"><span><strong>URL shortening APIs added</strong></span><span class="pull-right"> 4 May 2020</span></p>
 
 A new API has been made available to shorten URL slugs of your choice on your marketplace.
 * Details are in the API documentation [here](https://apiv2.arcadier.com/?version=latest#4b934939-cd65-4ed0-aee9-3b15de47904b).
 
 ---
 
-<p class="changelog-title"><span><strong>Webhook & Event Triggers APIs added</strong></span><span class="pull-right">24 April 2020</span></p>
+<p class="changelog-title"><span><strong>Webhook & Event Triggers APIs added</strong></span><span class="pull-right"> 24 April 2020</span></p>
 
 New APIs have been made available to set up event triggers on your marketplace. These event triggers can be hooked to your own webhooks.
 * Details are in the API documentation [here](https://apiv2.arcadier.com/?version=latest#cda751b9-e7a4-4d50-b660-72ec9cd4d4f0).
