@@ -1,3 +1,7 @@
+<p class="changelog-title"><span><strong>Added Country Level and User Location Settings</strong></span><span class="pull-right">September 2020 </span></p>
+
+<p class="changelog-title"><span><strong>Added Partial Refund</strong></span><span class="pull-right">August 2020</span></p>
+
 <p class="changelog-title"><span><strong>URL shortening APIs added</strong></span><span class="pull-right">4 May 2020</span></p>
 
 A new API has been made available to shorten URL slugs of your choice on your marketplace.
