@@ -1,3 +1,6 @@
+<p class="changelog-title"><span><strong>Added Wish list / Favorite Api </strong></span><span class="pull-right"> April 2022</span></p>
+
+---
 <p class="changelog-title"><span><strong>Single Sign on For Enterpise Clients and Event Triggers</strong></span><span class="pull-right"> January 2022</span></p>
 
 ---
