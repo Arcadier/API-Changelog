@@ -1,4 +1,4 @@
-<p class="changelog-title"><span><strong>New Update coming soon</strong></span><span class="pull-right"> September 2023</span></p>
+<p class="changelog-title"><span><strong>New update coming soon</strong></span><span class="pull-right"> September 2023</span></p>
 
 ---
 <p class="changelog-title"><span><strong>Added Wish list / Favorite Api </strong></span><span class="pull-right"> April 2022</span></p>
@@ -16,7 +16,7 @@
 
 ---
 
-<p class="changelog-title"><span><strong>Added Support for Merhcant Sub Accounts</strong></span><span class="pull-right"> July 2021</span></p>
+<p class="changelog-title"><span><strong>Added Support for Merchant Sub Accounts</strong></span><span class="pull-right"> July 2021</span></p>
 
 ---
 
@@ -25,12 +25,12 @@
 ---
 
 
-<p class="changelog-title"><span><strong>Merhant Info Api update to inlcude user profile medias</strong></span><span class="pull-right"> January 2021</span></p>
+<p class="changelog-title"><span><strong>Merhant Info Api update to include user profile media</strong></span><span class="pull-right"> January 2021</span></p>
 
 ---
 
 
-<p class="changelog-title"><span><strong>Items with translations to show the correct data when called via GET Item APIs and cart item parital refunds</strong></span><span class="pull-right"> Feb 2021</span></p>
+<p class="changelog-title"><span><strong>Items with translations to show the correct data when called via GET Item APIs and cart item partial refunds</strong></span><span class="pull-right"> Feb 2021</span></p>
 
 
 ---
@@ -76,7 +76,7 @@ New APIs have been made available to set up event triggers on your marketplace. 
 To improve the speed and efficiency of our APIs, the maximum value of pageSize has been limited to 500. 
 * [More details here.](https://apiv2.arcadier.com/?version=latest#pagination)
 * It is advised to use extra filters when doing searches.
-* If the intention is to get 100% of Records, where the number of Records exceed 500, combine `pageSize` with `pageNumber` and do a couple of API calls.
+* If the intention is to get 100% of Records, where the number of Records exceeds 500, combine `pageSize` with `pageNumber` and do a couple of API calls.
 
 ---
 
