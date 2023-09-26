@@ -7,8 +7,14 @@
 
 {% seo %}
     <!-- <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}"> -->
-    <link rel="stylesheet" href="{{ "/assets/css/bootstrap.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- <link rel="stylesheet" href="{{ "/assets/css/bootstrap.css?v=" | append: site.github.build_revision | relative_url }}"> -->
+    <!-- for Boostrap 5 -->
+    <link rel="stylesheet" href="{{ "/assets/css/bootstrap-5.2.3-min.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- for Boostrap 5 -->
     <link rel="stylesheet" href="{{ "/assets/css/newStyle.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.scss?v=" | append: site.github.build_revision | relative_url }}">
+  
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
     <!--[if lt IE 9]>
@@ -121,11 +127,13 @@
 <!--             <img src="https://api.arcadier.com/assets/images/logo.svg"/> -->
         </div>
     </div>
-    
-      
+          
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <script src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script>
+    <!-- boostrap 5 -->
+    <script src="{{ "/assets/js/bootstrap-5.2.3-min.js" | relative_url }}"></script>
+    <!-- boostrap 5 -->
+    <!-- <script src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script> -->
     <script src="{{ "/assets/js/changelog.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>

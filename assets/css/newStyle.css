@@ -183,6 +183,13 @@ header {
     line-height: 33px;
 }
 
+/* for header menu */
+.top-menu.pull-right .list_item_wrapper{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+  }
+
 /*---------------------------------------------*
 Header style End here
 *---------------------------------------------*/
@@ -1337,6 +1344,28 @@ background-size: contain;
     .opener.active span:last-child {
         transform: rotateZ(-45deg);
     }
+
+     /* for header  gitchange*/
+  .top-menu.pull-right .list_item_wrapper{
+     display: none;
+   }
+   header{
+     padding: 0px;
+     padding-top: 0.5rem;
+     padding-bottom: 0.5rem;
+   }
+  .arc_logo{
+     justify-content:flex-start;
+     top: 11px;
+   }
+  .arc_logo.pull-left img{
+     margin: 0px;
+   }
+   .mobile.menu-togller .opener{
+     top: 22px;
+     right: 18px;
+   }
+/* for header  gitchange*/
 }
 
 .api_info .table td:first-child,
@@ -2287,7 +2316,13 @@ max-width: 970px;
     .mobile_nav {
 	margin-top: 44px;
      }
+      /* for subhead */
+    .subhead h1{
+        font-size: 20px;
+    }
 }
+
+
 
 .grey_bg_area-section img {
     margin-top: 20px;
