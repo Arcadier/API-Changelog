@@ -1,3 +1,6 @@
+<p class="changelog-title"><span><strong>New Update coming soon</strong></span><span class="pull-right"> September 2023</span></p>
+
+---
 <p class="changelog-title"><span><strong>Added Wish list / Favorite Api </strong></span><span class="pull-right"> April 2022</span></p>
 
 ---
