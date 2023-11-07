@@ -1,4 +1,4 @@
-<p class="changelog-title"><span><strong>New update coming soon</strong></span><span class="pull-right"> September 2023</span></p>
+<p class="changelog-title"><span><strong>NEW API CHANGELOG INFORMATION for</strong></span><span class="pull-right"> November 2023</span></p>
 
 ---
 <p class="changelog-title"><span><strong>Added Wish list / Favorite Api </strong></span><span class="pull-right"> April 2022</span></p>
