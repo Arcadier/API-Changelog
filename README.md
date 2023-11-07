@@ -1,3 +1,4 @@
+<!-- only for core API change here, DONT add the client-specific changes. -->
 <p class="changelog-title"><span><strong>NEW API CHANGELOG INFORMATION for</strong></span><span class="pull-right"> November 2023</span></p>
 
 ---
