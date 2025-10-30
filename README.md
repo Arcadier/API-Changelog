@@ -1,5 +1,6 @@
 <!-- only for core API change here, DONT add the client-specific changes. -->
 <p class="changelog-title"><span><strong>Added API endpoints:
+
 Get Item Details
 
 Get Collections
