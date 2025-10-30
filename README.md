@@ -1,35 +1,21 @@
 <!-- only for core API change here, DONT add the client-specific changes. -->
-<p class="changelog-title"><span><strong>Added API endpoints:
+<p class="changelog-title"><span><strong>Added API endpoints: </strong></span><span class="pull-right"> October 2025</span></p>
 
 Get Item Details
-
 Get Collections
-
 Get Collection by ID
-
 Get Collection Members by Collection Name
-
 Get Collection Members by Collection ID
-
 Get Collection Members by IDs
-
 Get Featured Collection Members by Collection Name
-
 Get Collection Member by Reference ID
-
 Get SEO by URL Handle
-
 Get SEO by Reference ID and Table ID
-
 Get Maintenance Details
-
 Get Custom Pages
-
 Get Custom Page Editor by Web URL
-
 Get Marketplace Events by IDs
-
-Get All Marketplace Events</strong></span><span class="pull-right"> October 2025</span></p>
+Get All Marketplace Events
 
 ---
 <p class="changelog-title"><span><strong>Added GET Get Item Ratings and Reviews for a Specific Merchant</strong></span><span class="pull-right"> October 2025</span></p>
